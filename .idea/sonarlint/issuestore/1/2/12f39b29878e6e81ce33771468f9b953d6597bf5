@@ -1,0 +1,13 @@
+
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(…øş‰üÿÿÿÿ8®¸ì.
+£
+java:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”¹£—şÿÿÿÿ8ÑŠš¸ì.
+N
+java:S1481=",Remove this unused "console" local variable.(÷³É‘ıÿÿÿÿ8Â€œ¸ì.
+]
+java:S1854=";Remove this useless assignment to local variable "console".(÷³É‘ıÿÿÿÿ8Â€œ¸ì.
+a
+java:S1128"?Remove this unused import 'org.springframework.data.util.Pair'.(¾úŸ˜øÿÿÿÿ8şë¿ì.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(—¿É¯ùÿÿÿÿ8ßƒ¸ì.
+£
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖÌğÚüÿÿÿÿ8Ÿ š¸ì.

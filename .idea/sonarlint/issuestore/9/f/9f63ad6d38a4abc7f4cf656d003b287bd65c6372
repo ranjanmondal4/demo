@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾
+P
+java:S2209"5Change this instance-reference to a static reference.(˜¾ÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(´æşîùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯·Ä±
+V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ÷âıÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(”ı¾

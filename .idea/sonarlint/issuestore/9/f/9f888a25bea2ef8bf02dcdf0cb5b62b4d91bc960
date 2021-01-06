@@ -1,0 +1,13 @@
+
+b	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(–äÈ8¸ÂÛâå.
+]	java:S125"<This block of commented-out lines of code should be removed.(‘•êæúÿÿÿÿ8ñšğâå.
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ËÎÛ…8Àäáå.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î·É›8ÃÄòâå.
+N
+java:S3011,",This accessibility bypass should be removed.(áƒÄ¡ùÿÿÿÿ8˜Ûûáå.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÅïÇ8Ø±óáå.
+I
+java:S3011",This accessibility update should be removed.(”İÙ®8ı¯ãáå.
+I
+java:S3011(",This accessibility update should be removed.(˜ÂÓ˜8˜Ûûáå.

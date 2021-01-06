@@ -1,0 +1,12 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¯¥ó8œÄìôÙ.
+Q
+java:S1128"/Remove this unused import 'rx.functions.Func1'.(¸µ‰ıÿÿÿÿ8ß…®õÙ.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(¡ÿ‹–8â»ßÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¿ÑÅ8œÄìôÙ.
+]	java:S125"<This block of commented-out lines of code should be removed.(äÃùÿÿÿÿ8Ãİ¬ßÙ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(©áâÕøÿÿÿÿ8â»ßÙ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¤ÿÏ8Ãİ¬ßÙ.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(ÂœÄûÿÿÿÿ8â»ßÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹àİşşÿÿÿÿ8œÄìôÙ.
+]	java:S125("<This block of commented-out lines of code should be removed.(µÄïøşÿÿÿÿ8šì†âÙ.

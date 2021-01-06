@@ -1,0 +1,18 @@
+
+P
+java:S1128":Remove this unused import 'java.time.temporal.ChronoUnit'.(Α…§
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(επΧ±ϋÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'java.time.temporal.TemporalAdjuster'.(ª†‚ζ
+O
+java:S1128"9Remove this unused import 'java.time.format.FormatStyle'.(σσÿ½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µιΉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(δ•¤ζÿÿÿÿÿ
+_
+java:S3518"CMake sure this expression can't be zero before doing this division.(·³ªu8—›Μ.
+V
+java:S1854":Remove this useless assignment to local variable "result".(·³ªu8—›Μ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”α®φόÿÿÿÿ8—›Μ.
+G
+java:S1481"+Remove this unused "result" local variable.(·³ªu8—›Μ.

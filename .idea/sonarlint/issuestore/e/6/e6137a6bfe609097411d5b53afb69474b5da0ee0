@@ -1,0 +1,10 @@
+
+Ž
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(÷žÈçøÿÿÿÿ8Š÷Œ¦Ï.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Û•‚€8š’³¥Ï.
+p
+java:S1128"SRemove this unused import 'com.sun.xml.internal.ws.policy.privateutil.PolicyUtils'.(Û•‚€8š’³¥Ï.
+]	java:S125"<This block of commented-out lines of code should be removed.(Õÿû·ÿÿÿÿÿ8èÜ¥Ï.
+]	java:S125"<This block of commented-out lines of code should be removed.(¾Ï˜üÿÿÿÿ8ß¶ì¥Ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8Æî‰¦Ï.

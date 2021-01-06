@@ -1,0 +1,32 @@
+
+d
+java:S3078ˆ"AUse an "AtomicInteger" for this field; its operations are atomic.(×Ş¬•øÿÿÿÿ8ŞåÖÒÓ.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ÙÍşÚøÿÿÿÿ8£„àÛÓ.
+X	java:S125Z"<This block of commented-out lines of code should be removed.(èïÓ8èíÌÛÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶±êüÿÿÿÿ8¸±©ŞÓ.
+Q
+java:S37404"/Provide the parametrized type for this generic.(„òÈšøÿÿÿÿ8èŞöÜÓ.
+Q
+java:S37406"/Provide the parametrized type for this generic.(Óşƒ®ÿÿÿÿÿ8èŞöÜÓ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(«‹Îõ8áÌÿÜÓ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(«‹Îõ8å‡€İÓ.
+M
+java:S2446p"0"notify" may not wake up the appropriate thread.(è€™¶8šöÑÛÓ.
+Q
+java:S3740""/Provide the parametrized type for this generic.(„òÈšøÿÿÿÿ8ÇòôÜÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶±êüÿÿÿÿ8ÁÍ¨ŞÓ.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(«‹Îõ8¾åÿÜÓ.
+\
+java:S2274V":Remove this call to "wait" or move it into a "while" loop.(‚¸ô¯úÿÿÿÿ8£„àÛÓ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(ñàš±ùÿÿÿÿ8îüÓÛÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶±êüÿÿÿÿ8¸±©ŞÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8½ğĞŞÓ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬¶±êüÿÿÿÿ8¸±©ŞÓ.
+X	java:S125t"<This block of commented-out lines of code should be removed.(èïÓ8âºÑÛÓ.
+L
+java:S3740$"/Provide the parametrized type for this generic.(¬Ã…»8ªäõÜÓ.
+y
+java:S1104"VMake isNotified a static final constant or non-public and provide accessors if needed.(ø€ÑÎÿÿÿÿÿ8èúŞÛÓ.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(œ‚å¼8£„àÛÓ.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "name " 4 times.(¬¶±êüÿÿÿÿ8¸±©ŞÓ.
